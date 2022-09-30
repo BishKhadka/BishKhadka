@@ -16,7 +16,7 @@
 
 👨‍💻 Looking forward to working as a Software Engineer
 
-📄 Know about my experiences 
+**Know About My Experiences**
 - Data Analytics Intern @ Global Forest Watch <a href="https://www.globalforestwatch.org"><img align="center" src="https://scontent-bos5-1.xx.fbcdn.net/v/t31.18172-8/902555_200324030147966_394135174_o.jpg?_nc_cat=102&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=Ljr5W-RNpRsAX8v2lS2&_nc_ht=scontent-bos5-1.xx&oh=00_AT_YsmhoQs7pEhIrwNOhz1RYAIlNEFhh3IAIOew0CcAbSQ&oe=635BDBC9" alt="GFW" height="40" width="40" /></a> </h1>
 - Teaching Assistant & Tutor @ Colby College <a href="https://www.colby.edu"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Colby_College_seal.svg/800px-Colby_College_seal.svg.png" alt="Colby" height="40" width="40" /></a> </h1> 
 - Data Science Summer Research Assistant @ Colby College <a href="https://www.colby.edu/research/"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Colby_College_seal.svg/800px-Colby_College_seal.svg.png" alt="Colby" height="40" width="40" /></a> </h1>  
