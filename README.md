@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Bishal Khadka <a href="https://www.linkedin.com/in/khadka-bishal/"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="Medium" height="25" width="25" /></a> </h1> 
+<h1 align="center">👋 Hi, I'm Bishal Khadka <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/khadka-bishal/"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="LinkedIn" height="25" width="25" /></a> </h1> 
 
 <p align = "center"> <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2500&pause=350&width=435&lines=AN+ASPIRING+SOFTWARE+ENGINEER" alt="AN ASPIRING SOFTWARE ENGINEER" /></a> </p>
 
@@ -7,7 +7,7 @@
 **About Me**
 
 <a>
-<img align="right" src="https://img.freepik.com/free-vector/custom-style-script-website-optimization-coding-software-development-female-programmer-cartoon-character-working-adding-javascript-css-code_335657-2370.jpg?w=740&t=st=1664553172~exp=1664553772~hmac=0bffd06896f24977a75fc6d68e71dec5dbfa953a7bd6d02b17b310b646b9c79f" alt="Java" height="450" width="450" />
+<img align="right" src="https://img.freepik.com/free-vector/custom-style-script-website-optimization-coding-software-development-female-programmer-cartoon-character-working-adding-javascript-css-code_335657-2370.jpg?w=740&t=st=1664553172~exp=1664553772~hmac=0bffd06896f24977a75fc6d68e71dec5dbfa953a7bd6d02b17b310b646b9c79f" alt="Pic" height="450" width="450" />
 </a>
 
 🎓 Sophomore at Colby College
