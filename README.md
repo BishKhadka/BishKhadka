@@ -7,7 +7,7 @@
 **About Me**
 
 <a>
-<img align="right" src="https://img.freepik.com/free-vector/custom-style-script-website-optimization-coding-software-development-female-programmer-cartoon-character-working-adding-javascript-css-code_335657-2370.jpg?w=740&t=st=1664553172~exp=1664553772~hmac=0bffd06896f24977a75fc6d68e71dec5dbfa953a7bd6d02b17b310b646b9c79f" alt="Pic" height="450" width="450" />
+<img align="right" src="https://miro.medium.com/max/628/1*bNJu2vdL40kXkBgi9Tl0ew.png" alt="Pic" height="450" width="450" />
 </a>
 
 🎓 Sophomore at Colby College
