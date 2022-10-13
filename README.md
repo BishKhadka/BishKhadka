@@ -7,7 +7,7 @@
 **About Me**
 
 <a>
-<img align="right" src="https://miro.medium.com/max/628/1*bNJu2vdL40kXkBgi9Tl0ew.png" alt="Pic" height="450" width="450" />
+<img align="right" src="https://miro.medium.com/max/628/1*bNJu2vdL40kXkBgi9Tl0ew.png" alt="Pic" height="300" width="300" />
 </a>
 
 🎓 Sophomore at Colby College
